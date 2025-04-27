@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'https://backendtask-psi.vercel.app/api',
+  baseURL: 'https://backendtask-e7aj.onrender.com/api',
 });
 
 // Automatically add token
