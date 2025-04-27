@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'https://frontendtask-ten-virid.vercel.app/api',
+  baseURL: 'https://backendtask-psi.vercel.app/api',
 });
 
 // Automatically add token
